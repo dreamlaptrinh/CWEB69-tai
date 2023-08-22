@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <div class="container">
+        <h1>Test2</h1>
+        <form method="post" action="/login">
+            <input type="text" name="username" placeholder="Username"/><br/>
+            <input type="password" name="password" placeholder="Password"/><br/>
+            <input type="submit" value="Login"/>
+        </form>
+        </div>  
+    </body>
+</html>

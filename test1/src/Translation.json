@@ -1,0 +1,20 @@
+{
+  "vn": {
+    "a": "Bạn còn",
+    "b": "nhiệm vụ",
+    "check": "Kiểm tra trạng thái",
+    "button": "Lưu nhiệm vụ",
+    "enter": "Nhập tại đây ...",
+    "footer": "Tạo bởi Mindx",
+    "footer2": "Khả dụng"
+  },
+  "us": {
+    "a": "You have",
+    "b": "tasks left",
+    "check": "CheckTasks",
+    "button": "Submit",
+    "footer": "Made by Mindx",
+    "enter": "Enter task...",
+    "footer2": "Available on"
+  }
+}
